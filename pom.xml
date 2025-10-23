@@ -35,7 +35,7 @@
   </repository>   
   <snapshotRepository> 
 	  <id>nexus</id> 
-	  <url>http://52.23.239.210:8081/repository/hello--world-snapshot/</url> 
+	  <url>http://52.23.239.210:8081/repository/hello-worldjava-snapshot/</url> 
   </snapshotRepository> 
 </distributionManagement>
 	<build>
